@@ -91,8 +91,3 @@ Feature Importance & Interpretation
 
 SHAP values or model-based importance scores
 
-Account info (contract type, payment method, monthly charges)
-
-Service usage (internet service, phone service, etc.)
-
-Churn label (Yes/No)
