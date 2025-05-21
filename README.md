@@ -1,5 +1,7 @@
 📊 Customer Churn Analysis Using Machine Learning
+
 📌 Project Overview
+
 This project aims to predict customer churn using supervised machine learning techniques. Churn analysis helps businesses identify customers who are likely to leave their services, enabling them to take proactive measures to retain them. The dataset used contains various customer attributes such as demographics, services subscribed, and account information.
 
 🎯 Objectives
